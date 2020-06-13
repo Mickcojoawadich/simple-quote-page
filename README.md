@@ -1,2 +1,1 @@
-# simple-quote-page
-freedom
+
